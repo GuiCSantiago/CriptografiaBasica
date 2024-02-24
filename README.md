@@ -21,6 +21,10 @@ Cli do Cliente:
 
 <img width="422" alt="image" src="https://github.com/GuiCSantiago/CriptografiaBasica/assets/76591370/400d762e-b679-4c97-8dd2-dc3f449fc414">
 
+Cli do Server:
+
+<img width="247" alt="image" src="https://github.com/GuiCSantiago/CriptografiaBasica/assets/76591370/f9e8978b-1eeb-43fb-998f-ea09464f7781">
+
 ## Início da Comunicação: 
 O Cliente e servidor estabelecem uma conexão TCP. O cliente e o servidor têm seus próprios parâmetros privados (X para o cliente, Y para o servidor), que são números escolhidos aleatoriamente.
 
